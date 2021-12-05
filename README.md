@@ -6,8 +6,7 @@
 - I am currently learning <strong>Data Structures and Algorithms</strong>. And,
 - Looking to collaborate on some real life problem solving projects.
 
-You can contact me here : +91 8130817235 or \
-Gmail me at : narayanjeejha10012001@gmail.com <br>
+You can Gmail me at : narayanjeejha10012001@gmail.com <br>
 LinkedIn : https://www.linkedin.com/in/narayan-jee-jha-95b27a193/
 <!---
 9mpd/9mpd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
