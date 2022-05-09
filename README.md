@@ -1,7 +1,7 @@
 - Hey🖐
 - This is <strong>Narayan Jee Jha</strong>.
 - I study Mathematics and Computing Engineering at Delhi Technological University.
-- Currently I am in 3rd year of my graduation.
+- Currently I am in the final year of my graduation.
 - I’m interested in <strong>Mathematics</strong> and <strong>Programming</strong>. That's why..
 - I am currently learning <strong>Data Structures and Algorithms</strong>. And,
 - Looking to collaborate on some real life problem solving projects.
