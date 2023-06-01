@@ -1,6 +1,5 @@
 - Hey🖐
 - This is <strong>Narayan</strong>.
-- A final year student of Mathematics and Computing Engineering at the Delhi College of Engineering.
 - I’m interested in <strong>Mathematics</strong> and <strong>Programming</strong>.
 - And currently learning <strong>Data Structures, Algorithms, Machine Learning and Deep Learning</strong>.
 <!---
